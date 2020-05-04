@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOIHelper.Gem", "WOIHelper\WOIHelper.Gem.csproj", "{0B2171BE-5617-4A97-A918-AB176A5B8D71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOIHelper.Gem", "WOIHelper.Gem\WOIHelper.Gem.csproj", "{0B2171BE-5617-4A97-A918-AB176A5B8D71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOIHelper.Services", "WOIHelper.Services\WOIHelper.Services.csproj", "{0E1152C2-8512-45FC-AF11-24A0FD08FDF2}"
 EndProject
