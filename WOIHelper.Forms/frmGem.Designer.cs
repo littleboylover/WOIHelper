@@ -90,6 +90,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(32, 15);
             this.label2.Name = "label2";
@@ -125,9 +126,7 @@
             this.Controls.Add(this.cboStartingLevel);
             this.Controls.Add(this.cboTargetGemLevel);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(300, 318);
             this.Name = "frmGem";
             this.Text = "Gem Calculator";
             this.ResumeLayout(false);

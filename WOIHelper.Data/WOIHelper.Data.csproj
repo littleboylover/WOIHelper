@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\GameConstants.cs" />
+    <Compile Include="Extensions\ImageExtensions.cs" />
     <Compile Include="GameData.cs" />
+    <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\Requirement.cs" />
+    <Compile Include="Models\Stardust.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
