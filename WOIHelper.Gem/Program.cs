@@ -16,7 +16,7 @@ namespace WOIHelper
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmGem());
+            Application.Run(new frmMain());
         }
     }
 }
