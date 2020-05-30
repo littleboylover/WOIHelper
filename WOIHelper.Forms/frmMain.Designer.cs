@@ -35,6 +35,8 @@
             this.mnuStardustCalculator = new System.Windows.Forms.ToolStripMenuItem();
             this.gemsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuGemCalculator = new System.Windows.Forms.ToolStripMenuItem();
+            this.packsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.packDetailsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +45,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.mnuStardusts,
-            this.gemsToolStripMenuItem});
+            this.gemsToolStripMenuItem,
+            this.packsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(383, 24);
@@ -61,7 +64,7 @@
             // mnuClose
             // 
             this.mnuClose.Name = "mnuClose";
-            this.mnuClose.Size = new System.Drawing.Size(152, 22);
+            this.mnuClose.Size = new System.Drawing.Size(103, 22);
             this.mnuClose.Text = "Close";
             this.mnuClose.Click += new System.EventHandler(this.mnuClose_Click);
             // 
@@ -76,7 +79,7 @@
             // mnuStardustCalculator
             // 
             this.mnuStardustCalculator.Name = "mnuStardustCalculator";
-            this.mnuStardustCalculator.Size = new System.Drawing.Size(152, 22);
+            this.mnuStardustCalculator.Size = new System.Drawing.Size(128, 22);
             this.mnuStardustCalculator.Text = "Calculator";
             this.mnuStardustCalculator.Click += new System.EventHandler(this.mnuStardustCalculator_Click);
             // 
@@ -91,9 +94,24 @@
             // mnuGemCalculator
             // 
             this.mnuGemCalculator.Name = "mnuGemCalculator";
-            this.mnuGemCalculator.Size = new System.Drawing.Size(152, 22);
+            this.mnuGemCalculator.Size = new System.Drawing.Size(128, 22);
             this.mnuGemCalculator.Text = "Calculator";
             this.mnuGemCalculator.Click += new System.EventHandler(this.mnuGemCalculator_Click);
+            // 
+            // packsToolStripMenuItem
+            // 
+            this.packsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.packDetailsToolStripMenuItem});
+            this.packsToolStripMenuItem.Name = "packsToolStripMenuItem";
+            this.packsToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
+            this.packsToolStripMenuItem.Text = "Packs";
+            // 
+            // packDetailsToolStripMenuItem
+            // 
+            this.packDetailsToolStripMenuItem.Name = "packDetailsToolStripMenuItem";
+            this.packDetailsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.packDetailsToolStripMenuItem.Text = "Pack Details";
+            this.packDetailsToolStripMenuItem.Click += new System.EventHandler(this.packDetailsToolStripMenuItem_Click);
             // 
             // frmMain
             // 
@@ -122,5 +140,7 @@
         private System.Windows.Forms.ToolStripMenuItem mnuStardustCalculator;
         private System.Windows.Forms.ToolStripMenuItem gemsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mnuGemCalculator;
+        private System.Windows.Forms.ToolStripMenuItem packsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem packDetailsToolStripMenuItem;
     }
 }
