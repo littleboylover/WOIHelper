@@ -1,0 +1,2337 @@
+<Packs>
+  <Pack>
+    <Name>Gods Arrival Set</Name>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>49.40</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>1.25</Chance>
+    </Item>
+    <Item>
+      <Name>Gods Arrival Set x5</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>7.75</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>3.85</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher Stone</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odins Soul Jade LV7</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Chalice Coupon LV10</Name>
+      <Chance>0.40</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.65</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +15</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.10</Chance>
+    </Item>
+    <Item>
+      <Name>Gods Arrival Set x30</Name>
+      <Chance>0.15</Chance>
+    </Item>
+    <Item>
+      <Name>Masters Thoughts (Badge)</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Festival Attire (Badge)</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Spring of Life (badge)</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Archangel Demigods Soul Coupon</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Supremacy Aspect</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Gods Arrival Set x40</Name>
+      <Chance>0.04</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Resonance Loom Set</Name>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>49.40</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>1.25</Chance>
+    </Item>
+    <Item>
+      <Name>Resonance Loom Set x5</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>7.75</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>3.85</Chance>
+    </Item>
+    <Item>
+      <Name>Gem Chest</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher Stone</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odins Soul Jade LV7</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>-Protect +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Chalice Coupon LV10</Name>
+      <Chance>0.40</Chance>
+    </Item>
+    <Item>
+      <Name>Gem Chest</Name>
+      <Chance>0.65</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +15</Name>
+      <Chance>0.30</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.13</Chance>
+    </Item>
+    <Item>
+      <Name>Resonance Loom Set x30</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Bud of Mistletoe</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Soul of Baldr</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Nerthus Effigy</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Nerthus Feather</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Mail Fashion</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Resonance Loom Set x40</Name>
+      <Chance>0.02</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Nightly Chaos Set</Name>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>49.40</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>1.25</Chance>
+    </Item>
+    <Item>
+      <Name>Nightly Chaos Set x5</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>7.75</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>3.85</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher Stone</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odins Soul Jade LV7</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Chalice Coupon LV10</Name>
+      <Chance>0.40</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.65</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +15</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.10</Chance>
+    </Item>
+    <Item>
+      <Name>Nightly Chaos Set x30</Name>
+      <Chance>0.15</Chance>
+    </Item>
+    <Item>
+      <Name>Alfar Starword Coupon</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Horizon Starword Coupon</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Trailokya Starword Coupon</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Chaos Starword Coupon</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Chaos Starword Coupon x2</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Back Gear</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Nightly Chaos Set x40</Name>
+      <Chance>0.04</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Spiritual Totem Set</Name>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>49.40</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>15.00</Chance>
+    </Item>
+    <Item>
+      <Name>Catalyst of Growth</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Pet Gem</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Intermediate Pet Gem</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Spiritual Totem Set x5</Name>
+      <Chance>0.67</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>3.53</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>0.85</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.40</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>4.20</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>2.30</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>3.22</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.12</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher Stone</Name>
+      <Chance>1.99</Chance>
+    </Item>
+    <Item>
+      <Name>Odins Soul Jade LV7</Name>
+      <Chance>1.98</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>2.99</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>1.84</Chance>
+    </Item>
+    <Item>
+      <Name>Spiritual Totem Set x10</Name>
+      <Chance>0.98</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>1.02</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.36</Chance>
+    </Item>
+    <Item>
+      <Name>Chalice Coupon LV13</Name>
+      <Chance>0.38</Chance>
+    </Item>
+    <Item>
+      <Name>Innate Skill Charm</Name>
+      <Chance>0.19</Chance>
+    </Item>
+    <Item>
+      <Name>Spiritual Totem Set x20</Name>
+      <Chance>0.33</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Pet Skill 1 Pack</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Spiritual Totem Set x40</Name>
+      <Chance>0.04</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Urge of Aspiration Set</Name>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>22.85</Chance>
+    </Item>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>26.56</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>5.42</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>16.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odin Soul Jade LV7</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Urge of Aspiration Set x5</Name>
+      <Chance>0.44</Chance>
+    </Item>
+    <Item>
+      <Name>LV13 Chalice Coupon</Name>
+      <Chance>0.64</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Urge of Aspiration Set x15</Name>
+      <Chance>0.30</Chance>
+    </Item>
+    <Item>
+      <Name>Ancient Deity Essence Awakening Scroll</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +15</Name>
+      <Chance>0.07</Chance>
+    </Item>
+    <Item>
+      <Name>Ancient Deity Essence Awakening Scroll</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Divine drop of Blood</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Divinatory Aspect</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Urge of Aspiration Set x40</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Frigg's Envy</Name>
+      <Chance>0.0014</Chance>
+    </Item>
+    <Item>
+      <Name>Aetheria's Envy</Name>
+      <Chance>0.0014</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Supreme Sovereign Set</Name>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>22.85</Chance>
+    </Item>
+    <Item>
+      <Name>Large Fortify Crystal Pack</Name>
+      <Chance>26.56</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>5.42</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>16.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV1 Fashion Gem Chest</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odin Soul Jade LV7</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Supreme Sovereign Set x5</Name>
+      <Chance>0.44</Chance>
+    </Item>
+    <Item>
+      <Name>LV13 Chalice Coupon</Name>
+      <Chance>0.64</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Supreme Sovereign Set x15</Name>
+      <Chance>0.30</Chance>
+    </Item>
+    <Item>
+      <Name>Ancient Deity Essence Awakening Scroll</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +15</Name>
+      <Chance>0.07</Chance>
+    </Item>
+    <Item>
+      <Name>Ancient Deity Essence Awakening Scroll</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Divine drop of Blood</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Divinatory Aspect</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Supreme Sovereign Set x40</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Frigg's Love</Name>
+      <Chance>0.0014</Chance>
+    </Item>
+    <Item>
+      <Name>Aetheria's Love</Name>
+      <Chance>0.0014</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Green with Envy</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>20.00</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Envy (INT)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Envy (STR)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (F)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (M)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>4.49</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>1.51</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Rock of Trials</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.71</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.055</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Profound Sadness</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>20.00</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Sadness (INT)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Sadness (STR)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (F)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (M)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>4.49</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>1.51</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Rock of Trials</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.71</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.055</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>For the Love of God</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +10</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>20.00</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Love (INT)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Baldr Love (STR)</Name>
+      <Chance>0.005</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (F)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Cloak of Insanity (M)</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>4.49</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>1.51</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Rock of Trials</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.71</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.055</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Dawnbreak B/S/Golden Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>43.69</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>12.00</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Four Star Essence Awakening Scroll</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Odin's Soul Jade LV7</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV13 Chalice Coupon</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Dawnbreak Mystery Chest</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Eulaney B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>43.69</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>12.00</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Innate Skill Charm</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +15</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Divine Drop of Blood</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Spring Golden Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>54.08</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>16.64</Chance>
+    </Item>
+    <Item>
+      <Name>Catalyst of Growth</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.55</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>0.06</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.08</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Lion Heart Pet Skillbook</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Deluxe Essence Scroll</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +14</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Prometheus' Wings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Apollo's Whirlwings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ares' Wings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Sacred Silver Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>43.69</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>12.00</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Innate Skill Charm</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus Hammer +15</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Oracle Back Gear</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Winter Wind B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>43.69</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>12.00</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Essence Awakening Scroll</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Four Star Essence Awakening Scroll</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV13 Chalice Coupon</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Main God Destiny Feather</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Twilight B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>49.40</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>11.25</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Nature Reset Potion</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fenrir's Magic Chain (7 Days)</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Odin's Soul Jade LV7</Name>
+      <Chance>0.40</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.65</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.60</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.30</Chance>
+    </Item>
+    <Item>
+      <Name>Super Fortify Coupon</Name>
+      <Chance>0.15</Chance>
+    </Item>
+    <Item>
+      <Name>LV6 Gem Chest</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +12</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Darkmoon's Spirit</Name>
+      <Chance>0.01</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Demon's B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>47.92</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>14.00</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Basic Keystone Relic</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.30</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.60</Chance>
+    </Item>
+    <Item>
+      <Name>Odin's Soul Jade LV7</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>4.70</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>2x EXP Stone</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Tree of Life</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Hunter Strike</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>Super Fortify Coupon</Name>
+      <Chance>0.07</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +13</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Demon Queen's Soul</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Absorption Charm</Name>
+      <Chance>2.69</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Tales of the Supreme</Name>
+    <Item>
+      <Name>Supreme Deity Monk Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Eulaney Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Forceful Thor Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Mindful Thor Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Extraordinary Zeus' Lotus wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Revered Wicked God Loki wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Godly Wings of Odin</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Oracle Badge</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Hoder's Essence</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +11</Name>
+      <Chance>0.06</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Ascension Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>18.95</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>30.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>49.99</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Tales of the Ghosts</Name>
+    <Item>
+      <Name>Dianas' Ghost (Str)</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Dianas' Ghost (Int)</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Wild Wind Elf Rui</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Wise Wind Elf Rui</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Extraordinary Zeus' Lotus wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Revered Wicked God Loki wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Godly Wings of Odin</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Oracle Badge</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Hoder's Essence</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +11</Name>
+      <Chance>0.06</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Ascension Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>18.95</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>30.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>49.99</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Tales of the Elements</Name>
+    <Item>
+      <Name>Supreme Deity Monk Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Eulaney Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Forceful Thor Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Mindful Thor Pet</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Divine Flame Wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Divine Frost Wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Divine Light Wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Oracle Badge</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Hoder's Essence</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Divine Shadow Wings</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Titan Aspect +11</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Ascension Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Sacrificial Spirit</Name>
+      <Chance>18.95</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>30.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>49.99</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Ares' B/S/G Set</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>20.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ares' Wings</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>1.51</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Rock of Trials</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.71</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.06</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Apollo' B/S/G Set</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>20.00</Chance>
+    </Item>
+    <Item>
+      <Name>Apollo's Whirlwings</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Mesomorphism</Name>
+      <Chance>0.04</Chance>
+    </Item>
+    <Item>
+      <Name>Catalyst of Growth</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>59.70</Chance>
+    </Item>
+    <Item>
+      <Name>Odin's Soul Jade LV7</Name>
+      <Chance>0.06</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Prometheus' B/S/G Set</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Prometheus' Wings</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.99</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>7.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Agile Warrior</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Absorption Charm</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Warcry Trumpet</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>57.66</Chance>
+    </Item>
+    <Item>
+      <Name>LV5 Gem Chest</Name>
+      <Chance>0.07</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Dawn Legacy Set</Name>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Godly Energy Potion</Name>
+      <Chance>0.94</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.83</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Dawn Goddess' Blessing</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>6.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Fountain of Speed</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Prestige Shard</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.50</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Hunter Legacy Set</Name>
+    <Item>
+      <Name>F-Protect +8</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Endless Growler Combat Mount</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.99</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>7.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Wisdom</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Absorption Charm</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Warcry Trumpet</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>57.74</Chance>
+    </Item>
+    <Item>
+      <Name>Hunter Goddess' Blessing</Name>
+      <Chance>0.01</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Moon Legacy Set</Name>
+    <Item>
+      <Name>Reforge Charm</Name>
+      <Chance>0.70</Chance>
+    </Item>
+    <Item>
+      <Name>Seraph Demigod's Soul</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Moon Goddess' Blessing</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.49</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.50</Chance>
+    </Item>
+    <Item>
+      <Name>Iron Golem Mount</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Frozen Seal</Name>
+      <Chance>0.03</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Prestige Shard</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>6.00</Chance>
+    </Item>
+    <Item>
+      <Name>Godly Energy Potion</Name>
+      <Chance>1.25</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Frost Justice</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.46</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Gale Elf's B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>63.81</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.25</Chance>
+    </Item>
+    <Item>
+      <Name>Odin's Soul Jade LV7</Name>
+      <Chance>0.25</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.13</Chance>
+    </Item>
+    <Item>
+      <Name>Gale Elf Pet</Name>
+      <Chance>0.11</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fruit of Meld Potential</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.50</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>2.49</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Earth Elf's B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>60.78</Chance>
+    </Item>
+    <Item>
+      <Name>Fenrir's Magic Chain (30 days)</Name>
+      <Chance>0.33</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.13</Chance>
+    </Item>
+    <Item>
+      <Name>Earth Elf Pet</Name>
+      <Chance>0.11</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Super Gem Talisman</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>17.50</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fruit of Meld Potential</Name>
+      <Chance>1.50</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Absorption Charm</Name>
+      <Chance>1.00</Chance>
+    </Item>
+    <Item>
+      <Name>Recall Stone</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.50</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>2.49</Chance>
+    </Item>
+
+  </Pack>
+  <Pack>
+    <Name>Elven Kingdom B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>55.88</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>19.74</Chance>
+    </Item>
+    <Item>
+      <Name>Catalyst of Growth</Name>
+      <Chance>9.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>Reversion Crystal</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Deity Aspect +8</Name>
+      <Chance>0.35</Chance>
+    </Item>
+    <Item>
+      <Name>Tarot Card - Hope</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.10</Chance>
+    </Item>
+    <Item>
+      <Name>Super Fortify Coupon</Name>
+      <Chance>0.10</Chance>
+    </Item>
+    <Item>
+      <Name>Tarot Card - Strength</Name>
+      <Chance>0.05</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Reinforcement</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Fountain of Speed</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Burning Vigor</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Fuaila's Agility</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gueira's Protection</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Mechawings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Tarot Card - World</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Hallowed B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>48.74</Chance>
+    </Item>
+    <Item>
+      <Name>Advanced Rebirth Stone</Name>
+      <Chance>15.00</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>10.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>4.58</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>4.58</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher's Stone</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Universe Emblem</Name>
+      <Chance>3.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV4 Gem Chest</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>3.50</Chance>
+    </Item>
+    <Item>
+      <Name>Super Fortify Coupon</Name>
+      <Chance>0.50</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Gem Talisman</Name>
+      <Chance>3.03</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +13</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>Innate Skill Charm</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Oracle Mail</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Advancement Ink</Name>
+      <Chance>0.05</Chance>
+    </Item>
+  </Pack>
+  <Pack>
+    <Name>Legendary B/S/G Set</Name>
+    <Item>
+      <Name>Silver Roan</Name>
+      <Chance>54.08</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Crystal</Name>
+      <Chance>16.64</Chance>
+    </Item>
+    <Item>
+      <Name>Catalyst of Growth</Name>
+      <Chance>8.00</Chance>
+    </Item>
+    <Item>
+      <Name>Fortify Charm</Name>
+      <Chance>5.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gem of Hel Fragment</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Luckstone of Bragi Shard</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Pet Fortify Charmstone</Name>
+      <Chance>2.50</Chance>
+    </Item>
+    <Item>
+      <Name>LV3 Talisman</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Aspect Charm</Name>
+      <Chance>2.00</Chance>
+    </Item>
+    <Item>
+      <Name>Gold Roan</Name>
+      <Chance>3.00</Chance>
+    </Item>
+    <Item>
+      <Name>Philosopher Stone</Name>
+      <Chance>0.20</Chance>
+    </Item>
+    <Item>
+      <Name>LV10 Chalice Coupon</Name>
+      <Chance>0.35</Chance>
+    </Item>
+    <Item>
+      <Name>F-Protect +10</Name>
+      <Chance>0.06</Chance>
+    </Item>
+    <Item>
+      <Name>Hephaestus' Hammer +10</Name>
+      <Chance>0.10</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Mesomorphism</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Agile Warrior</Name>
+      <Chance>0.02</Chance>
+    </Item>
+    <Item>
+      <Name>Ultimate Wisdom</Name>
+      <Chance>0.01</Chance>
+    </Item>
+    <Item>
+      <Name>Prometheus' Wings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Apollo's Whirlwings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Ares' Wings</Name>
+      <Chance>0.00</Chance>
+    </Item>
+    <Item>
+      <Name>Seraph Demigod's Soul</Name>
+      <Chance>0.00</Chance>
+    </Item>
+  </Pack>
+</Packs>

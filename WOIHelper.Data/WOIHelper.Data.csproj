@@ -33,6 +33,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,11 +45,20 @@
     <Compile Include="Constants\GameConstants.cs" />
     <Compile Include="Extensions\ImageExtensions.cs" />
     <Compile Include="GameData.cs" />
+    <Compile Include="Models\ComboBoxItem.cs" />
     <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\Pack.cs" />
+    <Compile Include="Models\PackItem.cs" />
+    <Compile Include="Models\PackList.cs" />
     <Compile Include="Models\Requirement.cs" />
     <Compile Include="Models\Stardust.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ListViewItemSorter.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Xml\Packs.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

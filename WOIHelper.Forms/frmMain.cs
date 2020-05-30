@@ -37,5 +37,13 @@ namespace WOIHelper
 
             form.Show();
         }
+
+        private void packDetailsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var form = new frmPacks();
+            form.MdiParent = this;
+
+            form.Show();
+        }
     }
 }
